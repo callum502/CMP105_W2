@@ -25,5 +25,9 @@ private:
 	Input* input;
 
 	// Add your object here
+	sf::Text textx;
+	sf::Font fontx;
 
+	sf::Text texty;
+	sf::Font fonty;
 };
